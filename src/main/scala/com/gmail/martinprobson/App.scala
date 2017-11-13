@@ -17,6 +17,9 @@ object App extends Logging {
     
     info("Stop")
 
+    val r = Rational(1,2)
+    println(r * Rational(1,4))
+    
    
   }
 
