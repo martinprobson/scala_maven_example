@@ -1,6 +1,4 @@
-package com.gmail.martinprobson
-
-
+package net.martinprobson
 
 //TODO - Override hashcode
 

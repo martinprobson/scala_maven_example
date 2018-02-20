@@ -1,6 +1,6 @@
 
 
-package com.gmail.martinprobson
+package net.martinprobson
 
 import org.junit._
 import Assert._

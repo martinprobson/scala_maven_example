@@ -1,4 +1,4 @@
-package com.gmail.martinprobson
+package net.martinprobson
 
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
@@ -19,7 +19,9 @@ object App extends Logging {
 
     val r = Rational(1,2)
     println(r * Rational(1,4))
-    
+    val l = List(Rational(1,2),Rational(1,2))
+    val l2 = List(Rational(1,2),Rational(1,2))
+    l == l2
    
   }
 
